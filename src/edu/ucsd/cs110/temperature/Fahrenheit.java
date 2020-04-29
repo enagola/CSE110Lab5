@@ -19,7 +19,7 @@ public class Fahrenheit extends Temperature
         public String toString()
         {
             // TODO: Complete this method
-            return "" + this.getValue() + " Fail";
+            return "" + this.getValue() + " F";
         }
     }
 
